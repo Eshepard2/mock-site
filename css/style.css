@@ -1,0 +1,14 @@
+nav{
+    border: 10px solid black;
+    margin-block: 10px;
+    padding-block: 10px;
+}
+body{
+    margin-block: 10px;
+    padding: 10px;
+    background-color: cadetblue;
+}
+p{
+    font-weight: 300;
+    font-style: italic;
+}

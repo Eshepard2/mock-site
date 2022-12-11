@@ -1,0 +1,21 @@
+nav{
+    border: 8px solid darkslategray;
+    margin-block: 10px;
+    padding-block: 10px;
+}
+li{
+    font-weight: bolder;
+    font-size: x-large;
+    display: list-item;
+}
+body{
+    background-image: url(/mock-site/images/d6606134-f06b-49ff-b5db-fa510d07a798.JPG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+p{
+    font-weight: 300;
+    font-style: italic;
+}
